@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.controls button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.array-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 400px;
+}
+
+.array-bar {
+  background-color: orange; /* Set the background color to orange */
+  margin: 0 1px;
+  width: 5px; 
+}
+
